@@ -1,6 +1,6 @@
 //código del cuadrado
 console.group("cuadrados");
-
+jj
 function perimetroCuadrado(ladoCuadrado) {
     return ladoCuadrado * 4;
 }
